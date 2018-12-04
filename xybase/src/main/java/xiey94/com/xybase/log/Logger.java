@@ -12,7 +12,7 @@ import xiey94.com.xybase.BuildConfig;
  * @signature : do my best.
  * @explain :
  */
-public class Logger implements xiey94.com.xybase.log.Log {
+public class Logger implements ILogger {
     public static final String TAG = "xbase";
 
     private static String tag = TAG;
