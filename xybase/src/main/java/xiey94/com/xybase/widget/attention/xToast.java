@@ -1,4 +1,4 @@
-package xiey94.com.xybase.widget;
+package xiey94.com.xybase.widget.attention;
 
 import android.content.Context;
 import android.text.TextUtils;

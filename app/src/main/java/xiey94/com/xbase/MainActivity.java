@@ -2,14 +2,10 @@ package xiey94.com.xbase;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import xiey94.com.xybase.basex.adapterx.recyclerview.sample.SampleAdapter;
-import xiey94.com.xybase.widget.xToast;
+import xiey94.com.xybase.widget.attention.Attention;
+import xiey94.com.xybase.widget.attention.xToast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 //        recycler.setAdapter(adapter);
 
 
-        xToast.showToast("sasaasa");
+//        Attention.show("sasasassasasaa3232323fvw4t3ffds");
 
     }
 }
